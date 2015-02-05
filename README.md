@@ -1,5 +1,5 @@
 # Shhhhh!
-This is an Alfred Workflow and AppleScript to close all open system notifications (iCal, etc) via a keyboard shortcut or keyword.
+This is an Alfred Workflow and AppleScript to close all open system alerts (iCal, etc) via a keyboard shortcut or keyword.
 
 ## Installation
 Download from GitHub, unzip, and double-click on the `Shhhhh.alfredworkflow` file. This will add the workflow to Alfred and let you customize it. 
@@ -11,6 +11,8 @@ This should work in earlier versions of OSX, but I've only verified it in OSX Yo
 
 ## Notes
 I based this on the AppleScript found [here](http://hints.macworld.com/article.php?story=20140129221522629), and tweaked it until it worked right.
+
+NB: This only closes alerts, not banners. (Alerts are the notifications that have close/show buttons and have to be manually closed. Banners close automatically.)
 
 ## License
 Apache2. See [LICENSE](/LICENSE).
