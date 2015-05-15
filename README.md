@@ -6,6 +6,8 @@ Download from GitHub, unzip, and double-click on the `Shhhhh.alfredworkflow` fil
 
 I have also included the original AppleScript (`Shhhhh.scpt`) if you prefer to install/use it via Script Editor.
 
+**For this workflow to work, you need to give Alfred system accessibility permissions. Go to `System Preferences > Security & Privacy > Accessibility` and check the box next to Alfred in the section that is labeled "Allow the apps below to control your computer."** Otherwise, Alfred is blocked from running the script.
+
 ## Compatibility
 This should work in earlier versions of OSX, but I've only verified it in OSX Yosemite (10.10.2).
 
